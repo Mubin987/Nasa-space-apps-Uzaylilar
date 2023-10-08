@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 import VanillaTilt from "vanilla-tilt";
 import Cards from "./Cards";
 import { Container } from "@mui/material";
-import { SolarSystem } from "../../components/Solarsystem";
 export default function Explore() {
   const planets = [
     {
