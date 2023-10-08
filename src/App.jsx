@@ -2,7 +2,7 @@
 // import viteLogo from '/vite.svg'
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Explore from "./Pages/Solar System/Explore";
+import Explore from "./Pages/SolarSystem/Explore";
 import Home from "./Pages/Home/Home";
 import Layout from "./components/Layout";
 import Mercury from "./components/Planets/Mercury";
