@@ -1,0 +1,5 @@
+nav{
+    background-color: rgba(0, 0, 0, 0.2) !important;
+    z-index: 100;
+        /* Set the transparency to 0.2 */
+}
