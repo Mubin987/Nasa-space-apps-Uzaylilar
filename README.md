@@ -1,3 +1,4 @@
-# Nasa-space-apps-Uzaylilar
-# Planetary Tourism Office
+# Nasa-space-apps-challenge-Team-Uzaylilar
+Planetary Tourism Office
+
 Deployment link : https://nasa-space-apps-uzaylilar.netlify.app/
