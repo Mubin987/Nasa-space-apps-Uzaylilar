@@ -8,18 +8,18 @@ export default function Home() {
     {
       name: "Moon",
       details: "",
-      pic: "../../../src/assets/Moon.jpg",
+      pic: "/src/assets/Moon.jpg",
     },
     {
       name: "Nasa Space Station",
       details: "...",
-      pic: "../../../src/assets/spacestation.jpg",
+      pic: "/src/assets/spacestation.jpg",
     },
 
     {
       name: "Mars",
       details: "",
-      pic: "../../../src/assets/Mars.jpg",
+      pic: "/src/assets/Mars.jpg",
     },
   ];
 
@@ -109,7 +109,7 @@ export default function Home() {
             </h3>
           </div>
           <img
-            src="../../src/assets/Solar.jpg"
+            src="/src/assets/Solar.jpg"
             style={{ height: "400px", borderRadius: "20px" }}
             alt=""
           />
