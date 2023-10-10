@@ -9,44 +9,44 @@ export default function Explore() {
     {
       name: "Mercury",
       details: "Where Days are Scorching, and Nights are Frigid",
-      pic: "/src/assets/Mercury.jpg",
+      pic: "../../../public/Mercury.jpg",
       link: "/mercury",
     },
     {
       name: "Venus",
       details: "Earth's Fiery Sister.",
-      pic: "/src/assets/Venus.jpg",
+      pic: "../../../public/Venus.jpg",
       link: "/venus",
     },
 
     {
       name: "Mars",
       details: "The Red Planet of Mysteries.",
-      pic: "/src/assets/Mars.jpg",
+      pic: "../../../public/Mars.jpg",
       link: "/mars",
     },
     {
       name: "Jupiter",
       details: "The Giant of the Solar System",
-      pic: "/src/assets/Jupiter.jpg",
+      pic: "../../../public/Jupiter.jpg",
       link: "/jupiter",
     },
     {
       name: "Saturn",
       details: "Where Rings Reign Supreme.",
-      pic: "/src/assets/Saturn.jpg",
+      pic: "../../../public/Saturn.jpg",
       link: "/saturn",
     },
     {
       name: "Uranus",
       details: "The Sideways Ice Giant.",
-      pic: "/src/assets/Uranus2.jpg",
+      pic: "../../../public/Uranus2.jpg",
       link: "/uranus",
     },
     {
       name: "Neptune",
       details: "The Windy and Watery World.",
-      pic: "/src/assets/Neptune.jpg",
+      pic: "../../../public/Neptune.jpg",
       link: "/neptune",
     },
   ];
