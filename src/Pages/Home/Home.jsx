@@ -8,18 +8,18 @@ export default function Home() {
     {
       name: "Moon",
       details: "",
-      pic: "../../src/assets/Moon.jpg",
+      pic: "../../../src/assets/Moon.jpg",
     },
     {
       name: "Nasa Space Station",
       details: "...",
-      pic: "../../src/assets/spacestation.jpg",
+      pic: "../../../src/assets/spacestation.jpg",
     },
 
     {
       name: "Mars",
       details: "",
-      pic: "../../src/assets/Mars.jpg",
+      pic: "../../../src/assets/Mars.jpg",
     },
   ];
 
